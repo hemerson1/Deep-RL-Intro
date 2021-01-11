@@ -21,9 +21,9 @@
 - The behavioural cloning took 1hr of training data to work flawlessly
 - The data aggregation model took 3 episodes to play flawlessly
 
-  Gif of Final Product     | 
-:-------------------------:|
-![](./Images/catcher_dag.gif)  |
+|  Gif of Final Product     | 
+|:-------------------------:|
+| ![](./Images/catcher_dag.gif)  |
 
 ## A Few Notes:
 - Differences in human and robotic policy maker led to problems in getting the highest scores, would want to keep to one or the other
