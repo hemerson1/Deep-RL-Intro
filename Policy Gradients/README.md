@@ -29,6 +29,12 @@ Plot of Rewards       |  Gif of Final Product (left)
 :-------------------------:|:-------------------------:
 ![](./Images/pong_12500.png)  |  ![](./Images/pong_12500.gif)
 
+## Extensions: 
+- Implement a replay buffer
+- Implement a state-dependent baseline using a NN
+- Implement GAE-lamabda advantage estimation
+- Expand the model to win a greater percentage of the games
+
 ## A Few Notes:
 - Testing the model on a simpler environment initially was extremely helpful 
 - If the model is unstable with small changes in hyperparameters it is best to revise the model 
