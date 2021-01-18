@@ -32,7 +32,7 @@ Plot of Rewards       |  Gif of Final Product (left)
 ## Extensions: 
 - Implement a replay buffer
 - Implement a state-dependent baseline using a NN
-- Implement GAE-lamabda advantage estimation
+- Implement GAE-lambda advantage estimation
 - Expand the model to win a greater percentage of the games
 
 ## A Few Notes:
