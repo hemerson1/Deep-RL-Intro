@@ -4,7 +4,7 @@
 - The homework topic was DQN algorithms. 
 - In this project I implmented a DQN and a Double DQN for a discrete action space. 
     - this model also used soft target model update
-- This project used OpenAI gym to make the environment LunarLander
+- This project used OpenAI gym to make the environment LunarLander and Pong.s
 
 ## Files:
 - DQN.ipynb - code for DQN to play pong using a CNN 
