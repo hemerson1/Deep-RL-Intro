@@ -8,18 +8,18 @@
     - to ensure the model was learning I tested it initially on Catcher
 
 ## Files:
-- Policy_Gradient_Model_v1.ipynb -> code for REINFORCE algorithm
-- Policy_Gradient_Model_v2.ipynb -> code for REINFORCE algorithm + shuffling data
-- Policy_Gradient_Model_v3.ipynb -> code for REINFORCE algorithm using an altered loss function
-- Pong_Game.ipynb -> the game loop for running v1 and v2
-- Utils.ipynb -> useful functions
-- Game.ipynb -> game environment
-- Images -> training images
-- Reward_Files -> reward training data
-- Weights -> training weights
-    - PG_catcher_v3_1000.h5 -> weights after training v3 on catcher for 1000 episode
-    - PG_pong_v3_5000.h5 -> weights after training v3 on pong for 5000 episode
-    - PG_pong_v3_12500.h5 -> weights after training v3 on pong for 5000 episode
+- Policy_Gradient_Model_v1.ipynb - code for REINFORCE algorithm
+- Policy_Gradient_Model_v2.ipynb - code for REINFORCE algorithm + shuffling data
+- Policy_Gradient_Model_v3.ipynb - code for REINFORCE algorithm using an altered loss function
+- Pong_Game.ipynb - the game loop for running v1 and v2
+- Utils.ipynb - useful functions
+- Game.ipynb - game environment
+- Images - training images
+- Reward_Files - reward training data
+- Weights - training weights
+    - PG_catcher_v3_1000.h5 - weights after training v3 on catcher for 1000 episode
+    - PG_pong_v3_5000.h5 - weights after training v3 on pong for 5000 episode
+    - PG_pong_v3_12500.h5 - weights after training v3 on pong for 5000 episode
     
 ## Training: 
 - The model took 1000 episodes to show that is was learning
