@@ -42,8 +42,8 @@ Plot of Rewards for DQN    | Plot of Rewards for DDQN    |  Gif of Final Product
 ## Extensions: 
 - Implement a dueling DQN. 
 - Fully train the pong model.
-- Extend to a more challenging environment such as Ms-Pacman
+- Extend to a more challenging environment such as Ms-Pacman.
 
 
 ## A Few Notes:
-- I think the stability of the DQN is greater than other algorithms I haved used so far, but this is counteracted by the incredibly training time for the algorithm.
+- I think the stability of the DQN is greater than other algorithms I have used so far, but this is counteracted by the incredibly long training time for the algorithm.
